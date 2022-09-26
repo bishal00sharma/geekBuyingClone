@@ -28,6 +28,23 @@ and then order any product from our website.
 Also our website is really easy to use with its 
 navbar showing all the important info on it.
 We accept all the popular payment methods.
+<hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/geekbuying_cone.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/gb%20login.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/gb%20new%20arr.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/gb%20product%20page.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/shipping2.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/payment.png" /><hr />
+
+<img src="https://github.com/hemant097/Geekbuying_clone/raw/main/assets/final.png" /><hr />
+
+
 
 
 
