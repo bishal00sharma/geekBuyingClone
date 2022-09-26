@@ -35,16 +35,17 @@ We accept all the popular payment methods.
 ## Authors
 
 - [Vaishali Verma](https://github.com/vaishaliverma31)
-
+- [Bishal Sharma](https://github.com/bishal00sharma)
+- [Hemant Sharma](https://github.com/hemant097)
 - [Saurav Barnwal](https://github.com/sauravbarnwal9)
 
 - [Akash Singh](https://github.com/akashsinghdto55)
 
 - [Pooja Kanade](https://github.com/Pooja18668)
 
-- [Bishal Sharma](https://github.com/bishal00sharma)
 
-- [Hemant Sharma](https://github.com/hemant097)
+
+
 
 
 ## Acknowledgements
