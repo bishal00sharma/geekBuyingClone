@@ -9,7 +9,7 @@ categories like smart home and outdoor
 gadgets, Geekbuying is where you should be!.
 Go to website - https://nimble-melba-09757f.netlify.app/
 
-![GeekBuying](/assets/geekbuying_cone.png)
+![GeekBuying](/assets/frontgeek.png)
 ![GeekBuying](/assets/gb%20login.png)
 ![GeekBuying](/assets/gb%20new%20arr.png)
 ![GeekBuying](/assets/gb%20product%20page.png)
